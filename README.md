@@ -2,12 +2,12 @@
 
 ## CV
 
-Een **Cv** maken met alle informatie  met betrekking werknemers over de streep te kunnen trekken.
+Een **Cv** maken met alle informatie  met betrekking om werknemers over de streep te kunnen trekken.
 Framework **bootstrap** 
 
 ## Website
 
-Website van mijn werk. **Protofolio** ervan maken met **bootstrap** 
+Website van mijn werk. **Protofolio** ervan maken met 
 Framework **bootstrap**
 
 ## Doel?
