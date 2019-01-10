@@ -2,11 +2,13 @@
 
 ## CV
 
-Een **Cv** maken met alle benodigden informatie  met **bootstrap** 
+Een **Cv** maken met alle informatie  met betrekking werknemers over de streep te kunnen trekken.
+Framework **bootstrap** 
 
 ## Website
 
 Website van mijn werk. **Protofolio** ervan maken met **bootstrap** 
+Framework **bootstrap**
 
 ## Doel?
 
